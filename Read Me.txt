@@ -1,2 +1,2 @@
 Right Click on Purge.py Edit with Visual Studio Code/Notepad/Notepad++/etc..
-Delete Token Here.. And put you discord account token
+Delete Token Here.. And put your discord account token
