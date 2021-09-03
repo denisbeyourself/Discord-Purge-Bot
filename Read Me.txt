@@ -4,3 +4,5 @@ Delete Token Here.. And put your discord account token
 2. Run Modules.bat
 
 3. Enjoy!
+
+Credits: SVN | SUM | Adelin Jr.#3422, GeForceNero17ˢⁱˣ#0001
